@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on my software develop project.
+- 🌱 I’m currently learning Python, C#, JavaScript, SQL database and try to practice my backend dev skill.
+- 📫 How to reach me: narawich49@gmail.com
 <!--
 **MashMaleLLO/MashMaleLLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
