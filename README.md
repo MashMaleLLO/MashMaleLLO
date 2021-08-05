@@ -1,4 +1,4 @@
-### Hi there 👋
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Narawich Youbua</h1>
 - 🔭 I’m currently working on my software develop project.
 - 🌱 I’m currently learning Python, C#, JavaScript, SQL database and try to practice my backend dev skill.
 - 📫 How to reach me: narawich49@gmail.com
