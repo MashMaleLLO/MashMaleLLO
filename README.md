@@ -28,7 +28,7 @@
 <h3>My Stats</h3>
 <br>
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MashMaleLLO&layout=compact&langs_count=8&theme=dracula">
+  ![MashMaleLLO's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=MashMaleLLO&show_icons=true&locale=en&layout=compact&theme=dracula)
 </p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MashMaleLLO&layout=compact&langs_count=8&theme=dracula"/>
