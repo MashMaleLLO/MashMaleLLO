@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;&center=true&width=500&height=50"></a>
 </p>
-<img src="https://i.pinimg.com/originals/fc/fa/90/fcfa90bbda7e1e72f5c273a046921707.gif">
+<img src="https://i.pinimg.com/originals/fc/fa/90/fcfa90bbda7e1e72f5c273a046921707.gif" width = "100" height = "100">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
