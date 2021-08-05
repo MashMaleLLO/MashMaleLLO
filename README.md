@@ -17,7 +17,8 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 
 <br>
-<h1>My Stat</h1>
+<h3>My Stat</h3>
+<br>
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MashMaleLLO&layout=compact&langs_count=8&theme=dracula">
 </p>
