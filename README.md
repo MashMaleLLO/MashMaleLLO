@@ -27,7 +27,7 @@
 <br>
 <h3>My Stats</h3>
 <br>
-<p aling="center">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MashMaleLLO&layout=compact&langs_count=8&theme=dracula">
 </p>
 <p align="center">
