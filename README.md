@@ -3,14 +3,14 @@
 - 🌱 I’m currently learning Python, C#, JavaScript, SQL database and try to practice my backend dev skill.
 - 📫 How to reach me: narawich49@gmail.com
 
-
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MashMaleLLO&layout=compact&langs_count=8&theme=dracula">
+</p>
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MashMaleLLO&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MashMaleLLO&layout=compact&langs_count=8&theme=dracula">
-</p>
+
 <!--
 **MashMaleLLO/MashMaleLLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
