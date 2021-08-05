@@ -1,4 +1,4 @@
-![Github](https://user-images.githubusercontent.com/56060226/101707637-34dc9280-3abe-11eb-99b6-d6cbffa7e114.png)
+<!-- ![Github](https://user-images.githubusercontent.com/56060226/101707637-34dc9280-3abe-11eb-99b6-d6cbffa7e114.png) -->
 
 ### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Narawich Youbua</h1>
 - 🔭 I’m currently working on my software develop project.
