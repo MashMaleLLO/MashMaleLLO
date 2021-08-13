@@ -26,6 +26,7 @@
 <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://nodemon.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="Nodemon Logo" width="40" height="40"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://docs.mongodb.com/images/mongodb-logo.png" alt="MongoDB Logo" width="100" height="25"></a>
+<img id="logo" src="/docs/images/mongoose5_62x30_transparent.png">
 
 <br>
 <h3>My Stats</h3>
