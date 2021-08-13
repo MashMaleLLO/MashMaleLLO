@@ -27,6 +27,7 @@
 <a href="https://nodemon.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png" alt="Nodemon Logo" width="40" height="40"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://docs.mongodb.com/images/mongodb-logo.png" alt="MongoDB Logo" width="100" height="25"></a>
 <a href="https://mongoosejs.com/docs/" target="_blank"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose"></a>
+<a href="https://pugjs.org/api/getting-started.html" target="_blank"><img src="https://avatars.githubusercontent.com/u/9338635?s=200&amp;v=4" width="100" height="100" alt="@pugjs"></a>
 
 
 <br>
