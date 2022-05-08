@@ -28,7 +28,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://docs.mongodb.com/images/mongodb-logo.png" alt="MongoDB Logo" width="100" height="25"></a>
 <a href="https://mongoosejs.com/docs/" target="_blank"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose"></a>
 <a href="https://pugjs.org/api/getting-started.html" target="_blank"><img src="https://avatars.githubusercontent.com/u/9338635?s=200&amp;v=4" width="40" height="40" alt="@pugjs"></a>
-<a href="" target="_blank"><img src="https://w7.pngwing.com/pngs/411/817/png-transparent-web-development-net-framework-asp-net-mvc-software-framework-microsoft-blue-angle-logo-thumbnail.png" width="40" height="40"></a>
+<a href="" target="_blank"><img src="https://dotnettrickscloud.blob.core.windows.net/uploads/CourseImages/becomeanaspnetmvcdeveloper-mobile.png" width="40" height="40"></a>
 
 
 <br>
