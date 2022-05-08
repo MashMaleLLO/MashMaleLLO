@@ -1,12 +1,12 @@
 <!-- ![Github](https://user-images.githubusercontent.com) -->
 <img src="https://cdn.discordapp.com/attachments/793757885569564702/872845834952261662/MaleGitProfile.jpg">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Narawich Youbua (Male)</h1>
-- 🔭 I’m currently working on my software develop project.
+- 🔭 I’m currently working on my Data analytics software project, "Recommendation System for CE Curriculum administrators".
 <br>
-- 🌱 I’m currently learning Python, C#, JavaScript, SQL database and try to practice my backend dev skill.
+- 🌱 I’m currently learning Django Framework, ASP.net MVC, SQL database, No-SQL database and try to practice my backend dev and data engineering skill.
 <br>
 - 📫 How to reach me: narawich49@gmail.com
-
+<br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;&center=true&width=500&height=50"></a>
 </p>
@@ -28,6 +28,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://docs.mongodb.com/images/mongodb-logo.png" alt="MongoDB Logo" width="100" height="25"></a>
 <a href="https://mongoosejs.com/docs/" target="_blank"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose"></a>
 <a href="https://pugjs.org/api/getting-started.html" target="_blank"><img src="https://avatars.githubusercontent.com/u/9338635?s=200&amp;v=4" width="40" height="40" alt="@pugjs"></a>
+<a href="" target="_blank"><img src="https://w7.pngwing.com/pngs/411/817/png-transparent-web-development-net-framework-asp-net-mvc-software-framework-microsoft-blue-angle-logo-thumbnail.png" width="40" height="40"></a>
 
 
 <br>
