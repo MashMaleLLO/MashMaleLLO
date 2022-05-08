@@ -34,6 +34,7 @@
 <a href="https://mongoosejs.com/docs/" target="_blank"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose"></a>
 <a href="https://pugjs.org/api/getting-started.html" target="_blank"><img src="https://avatars.githubusercontent.com/u/9338635?s=200&amp;v=4" width="40" height="40" alt="@pugjs"></a>
 <a href="https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started" target="_blank"><img src="https://w7.pngwing.com/pngs/411/817/png-transparent-web-development-net-framework-asp-net-mvc-software-framework-microsoft-blue-angle-logo-thumbnail.png" width="40" height="40"></a>
+<a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40" height="40"/></a>
 
 
 <br>
