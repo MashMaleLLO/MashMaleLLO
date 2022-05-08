@@ -15,6 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" width="40" height="40"> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -28,7 +29,7 @@
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://docs.mongodb.com/images/mongodb-logo.png" alt="MongoDB Logo" width="100" height="25"></a>
 <a href="https://mongoosejs.com/docs/" target="_blank"><img src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose"></a>
 <a href="https://pugjs.org/api/getting-started.html" target="_blank"><img src="https://avatars.githubusercontent.com/u/9338635?s=200&amp;v=4" width="40" height="40" alt="@pugjs"></a>
-<a href="" target="_blank"><img src="https://mindphp.com/images/knowledge/IOT/asp.net-mvc.png" width="40" height="40"></a>
+<a href="https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started" target="_blank"><img src="https://w7.pngwing.com/pngs/411/817/png-transparent-web-development-net-framework-asp-net-mvc-software-framework-microsoft-blue-angle-logo-thumbnail.png" width="40" height="40"></a>
 
 
 <br>
